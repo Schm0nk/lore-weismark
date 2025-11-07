@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/eothas/"}
 ---
 
+# Eothas | (AY-uh-thahss)
+
 • **Aliases**: “The Child of Light,”
 "The Dawnstars," "Gaun"
 • **Portfolio**: Light, dawn, birth, spring,
