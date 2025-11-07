@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/voelker/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/voelker/"}
 ---
 
 
